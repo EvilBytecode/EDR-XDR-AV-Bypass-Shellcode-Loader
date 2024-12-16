@@ -48,3 +48,10 @@ This project provides an advanced shellcode loader capable of bypassing major ED
 
 ## Disclaimer
 This tool is intended for educational and research purposes only. Misuse of this tool for malicious purposes is strictly prohibited and against the law. The author does not condone or support any illegal activity.
+
+
+# Refernces that might help you: 
+- https://redops.at/en/blog/syscalls-via-vectored-exception-handling#:~:text=What%20is%20meant%20by%20syscalls%20via%20vectored%20exception,a%20VEH%20function%20and%20deliberately%20throwing%20an%20exception.
+- https://whiteknightlabs.com/2024/07/31/layeredsyscall-abusing-veh-to-bypass-edrs/
+- https://github.com/C5Hackr/Segment-Encryption
+- https://revers.engineering/custom-getprocaddress-and-getmodulehandle-implementation-x64/
