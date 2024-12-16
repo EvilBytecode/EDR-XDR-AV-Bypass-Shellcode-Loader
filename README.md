@@ -7,6 +7,7 @@
 - [Join our Discord server!](https://discord.gg/NRTdwYUtdQ)
 
 ---
+![image](https://github.com/user-attachments/assets/c9945d69-547c-4c21-923a-20325c886844)
 
 ## Overview
 This project provides an advanced shellcode loader capable of bypassing major EDRs (Endpoint Detection and Response), XDRs, and AV (Antivirus) systems. The shellcode is executed in a staged manner with techniques such as memory protection manipulation, VEH (Vectored Exception Handling), and system calls to evade detection.
