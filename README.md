@@ -2,11 +2,6 @@
 - CURRENTLY BYPASSES CROWDSTRIKE & SENTINEL ONE RUNTIME.
 - SCROLL DOWN TO FIND DETECTIONS (RUNTIME & STATIC TIME ANALYSIS)
 ---
-- Want paid version? contact me at : https://t.me/codepulze
-- <a href="https://t.me/+TRYMuOVDiWA4MjM0"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
-- [Join our Discord server!](https://discord.gg/NRTdwYUtdQ)
-
----
 ![image](https://github.com/user-attachments/assets/c9945d69-547c-4c21-923a-20325c886844)
 
 ## Overview
