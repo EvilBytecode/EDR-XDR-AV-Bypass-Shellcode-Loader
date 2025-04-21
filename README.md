@@ -50,3 +50,7 @@ This tool is intended for educational and research purposes only. Misuse of this
 - https://whiteknightlabs.com/2024/07/31/layeredsyscall-abusing-veh-to-bypass-edrs/
 - https://github.com/C5Hackr/Segment-Encryption
 - https://revers.engineering/custom-getprocaddress-and-getmodulehandle-implementation-x64/
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
